@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waramaug.
 - 👀 I’m interested in everything, really.
-- 🌱 I’m currently learning front-end developmen, just for fun!
+- 🌱 I’m currently learning front-end development, just for fun!
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 Feel free to send me a message or something.
 
